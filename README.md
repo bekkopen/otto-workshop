@@ -5,6 +5,13 @@ https://www.ottoproject.io/
 
 Dok: https://www.ottoproject.io/docs/index.html
 
+Installasjon
+------------
+
+OSX: `$ brew install otto`
+
+Windows: Last ned her https://www.ottoproject.io/downloads.html
+
 Compile
 -------
 
