@@ -66,7 +66,9 @@ Avslutte
 --------
 
 `$ otto deploy destroy`
+
 `$ otto infra destroy`
+
 `$ otto dev destroy`
 
 River ned igjen alle ressurser som har blitt opprettet av Otto.
