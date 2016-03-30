@@ -1,6 +1,10 @@
 Otto workshop
 =============
 
+https://www.ottoproject.io/
+
+Dok: https://www.ottoproject.io/docs/index.html
+
 Compile
 -------
 
