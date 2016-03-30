@@ -1,0 +1,9 @@
+{
+    "name": "otto-workshop",
+    "private": true,
+    "version": "0.0.1",
+    "description": "",
+    "dependencies": {
+        "express": "4.13.4",
+    }
+}
